@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HARSH STORE</title>
+          
+</head>
+<body>
+<div class="backgroundimage">
+<div class="menu">
+<div class="leftmenu">
+<h4>HARSH MOBILES</h4>
+</div>
+<div class="rightmenu">
+<ul>
+<li>Home</li>
+<li>iphone</li>
+<li>ipad</li>
+<li><a href="login.html">Login</a></li>
+ <li><a href="registration.html">Signup</a></li>
+<li>Contact</li>
+</ul>
+</div>
+</div>
+<div class="text">
+<h4>TOP BRAND * TOP DESIGN</h4>
+<h1>SO STRONG.SO LIGHT.SO PRO</h1>
+<h3>SMATER.BRIGHTER.MIGHTER</h3>
+<button class="btn">IPHONE</button>
+<button class="btn">ANDROID</button>
+</div>
+</div>
+ </body>
+ </html>
